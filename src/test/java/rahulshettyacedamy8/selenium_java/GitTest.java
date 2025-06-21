@@ -13,6 +13,9 @@ public class GitTest {
 		System.out.println("jaihind");
 		System.out.println("RAJU");
 		System.out.println("FINAL COMMIT FROM DEMO");
+		System.out.println("CHECK1");
+		System.out.println("CHECK2");
+		System.out.println("CHECK3");
 	}
 
 }
