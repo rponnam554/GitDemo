@@ -19,6 +19,9 @@ public class GitTest {
 		System.out.println("I should help him back1");
 		System.out.println("I should help him back2");
 		System.out.println("I should help him back3");
+		System.out.println("First test on branching on develop1");
+		System.out.println("First test on branching on develop2");
+		System.out.println("First test on branching on develop3");
 	}
 
 }
