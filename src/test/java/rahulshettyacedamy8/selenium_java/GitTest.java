@@ -16,6 +16,9 @@ public class GitTest {
 		System.out.println("CHECK1");
 		System.out.println("CHECK2");
 		System.out.println("CHECK3");
+		System.out.println("I should help him back1");
+		System.out.println("I should help him back2");
+		System.out.println("I should help him back3");
 	}
 
 }
