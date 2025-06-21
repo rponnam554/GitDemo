@@ -22,6 +22,10 @@ public class GitTest {
 		System.out.println("First test on branching on develop1");
 		System.out.println("First test on branching on develop2");
 		System.out.println("First test on branching on develop3");
+		
+		System.out.println("GitX can also push the code1");
+		System.out.println("GitX can also push the code2");
+		System.out.println("GitX can also push the code3");
 	}
 
 }
